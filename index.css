@@ -24,8 +24,8 @@ body {
 
 .panda {
   border: 0.3em solid #161823;
-  border-top-left-radius: 10em 14em;
-  border-top-right-radius: 10em;
+  border-top-left-radius: 11em 14em;
+  border-top-right-radius: 11em;
   border-bottom-left-radius: 11em 16em;
   border-bottom-right-radius: 12em 16em;
 }

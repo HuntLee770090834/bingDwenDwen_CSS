@@ -264,10 +264,11 @@ body {
 }
 
 .beijing {
-  font-size: 14px;
+  font-size: 13px;
   text-align: center;
-  top: -1.4em;
+  top: -4.8em;
   position: relative;
+  font-family: 'MV Boli';
 }
 
 .circle {
